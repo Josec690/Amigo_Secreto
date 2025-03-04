@@ -134,12 +134,18 @@ ul {
     margin: 20px 0;
 }
 
-.result-list {
+.result-list{
     margin-top: 15px;
     color: #05DF05;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
+
+}
+
+.result-list:hover {
+    background-color: #4B69FD;
+    
 }
 
 /* Botão de sortear título */
